@@ -17,7 +17,7 @@
 <a href="https://instagram.com/agils.a.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agils.a.p" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agils121&show_icons=true&locale=en&layout=compact" alt="agils121" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agils121&show_icons=true&locale=en" alt="agils121" /></p>
 
