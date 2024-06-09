@@ -1,32 +1,4 @@
-My Byte Points
--
--
-My BNB
--
-GPT to Earn
-Open and Sign In to ChatGPT
-Please open and log in to ChatGPT to continue using this feature.
-Go to ChatGPT
-Earnings History
-No Earnings History Yet
-Start uploading sessions to earn now!
-hello2
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20258
-Fork on GitHub
-6165
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Agil Satria Ancang Pamungkas</h1>
 <h3 align="center">A passionate frontend developSoftware Developer Student from Amikom Purwokerto University. Through my formal education and self-study. I have an interest and expertise in programming.er from India</h3>
 
@@ -50,27 +22,3 @@ preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agils121&" alt="agils121" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
