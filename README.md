@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agils121&label=Profile%20views&color=0e75b6&style=flat" alt="agils121" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agils121" alt="agils121" /></a> </p>
 
 - 📫 How to reach me **gilsatria121@gmail.com**
 
