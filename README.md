@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Agil Satria Ancang Pamungkas</h1>
-<h3 align="center">A passionate frontend developSoftware Developer Student from Amikom Purwokerto University. Through my formal education and self-study. I have an interest and expertise in programming.er from India</h3>
+<h3 align="center">A passionate frontend developSoftware Developer Student from Amikom Purwokerto University. Through my formal education and self-study. I have an interest and expertise in programming.er from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agils121&label=Profile%20views&color=0e75b6&style=flat" alt="agils121" /> </p>
 
